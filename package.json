@@ -1,0 +1,28 @@
+{
+	"name": "ng-hub-ui-dropdown",
+	"version": "0.0.1",
+	"description": "Modern and accessible dropdown components for Angular, part of the ng-hub-ui ecosystem (pre-release)",
+	"peerDependencies": {
+		"@angular/common": ">=16.0.0",
+		"@angular/core": ">=16.0.0"
+	},
+	"dependencies": {
+		"tslib": "^2.3.0"
+	},
+	"sideEffects": false,
+	"license": "MIT",
+	"author": "Carlos Morcillo <carlos.morcillo@me.com> (https://www.carlosmorcillo.com)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/carlos-morcillo/ng-hub-ui-dropdown"
+	},
+	"keywords": [
+		"angular",
+		"dropdown",
+		"menu",
+		"overlay",
+		"bootstrap",
+		"ng-hub-ui"
+	],
+	"homepage": "https://hubui.dev/"
+}
