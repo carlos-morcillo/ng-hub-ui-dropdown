@@ -4,7 +4,9 @@
 
 [![NPM Version](https://img.shields.io/npm/v/ng-hub-ui-dropdown.svg)](https://www.npmjs.com/package/ng-hub-ui-dropdown)
 [![License](https://img.shields.io/npm/l/ng-hub-ui-dropdown.svg)](https://github.com/carlos-morcillo/ng-hub-ui-dropdown/blob/main/LICENSE)
-[![Status](https://img.shields.io/badge/Status-Pre--release-orange.svg)](https://github.com/carlos-morcillo/ng-hub-ui-dropdown)
+[![Status](https://img.shields.io/badge/Status-Deprecated-red.svg)](https://github.com/carlos-morcillo/ng-hub-ui-dropdown)
+
+> **Deprecated.** This library is superseded by [`ng-hub-ui-buttons`](https://www.npmjs.com/package/ng-hub-ui-buttons) which ships `HubDropdownDirective`, `HubDropdownPanelComponent` and all related helpers. No new features will be added here.
 
 > Modern and accessible dropdown components for Angular, part of the ng-hub-ui ecosystem.
 
