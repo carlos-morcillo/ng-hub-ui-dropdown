@@ -12,11 +12,11 @@
 
 ## Documentación y ejemplos en vivo
 
-Este paquete forma parte de [Hub UI](https://hubui.dev/), una colección de bibliotecas de componentes Angular para aplicaciones standalone.
+Este paquete forma parte de [Hub UI](https://hubui.dev/en/), una colección de bibliotecas de componentes Angular para aplicaciones standalone.
 
-- Documentación: https://hubui.dev/dropdown/
-- Ejemplos en vivo: https://hubui.dev/dropdown/examples/
-- Hub UI: https://hubui.dev/
+- Documentación: https://hubui.dev/en/buttons/overview/ (este paquete ya no tiene página propia; `ng-hub-ui-buttons` lo sustituye)
+- Ejemplos en vivo: https://hubui.dev/en/buttons/examples/
+- Hub UI: https://hubui.dev/en/
 
 ## 🧩 Familia de bibliotecas `ng-hub-ui`
 
